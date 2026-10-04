@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://funfairugandalimited.co.ug/sitemap.xml
