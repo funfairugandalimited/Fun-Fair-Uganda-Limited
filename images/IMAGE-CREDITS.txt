@@ -1,0 +1,4 @@
+Vehicle image sources used by the fleet cards:
+1. Toyota Noah: https://commons.wikimedia.org/wiki/File:2010_Toyota_Noah.jpg — CC0, TTTNIS.
+2. Toyota Land Cruiser Prado: https://commons.wikimedia.org/wiki/File:Toyota_Land_Cruiser_Prado_(J150)_3-door.jpg — CC BY 2.0, Jason Lawrence/Alex Neman.
+3. Toyota HiAce: https://commons.wikimedia.org/wiki/File:2017_Toyota_HiAce_(TRH201R)_LWB_van_(2018-10-01)_01.jpg — CC BY-SA 4.0, EurovisionNim.
